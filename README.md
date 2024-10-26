@@ -6,8 +6,17 @@ Information om APIet:
 Jag har använt Sqlite3 som databas. 
 Funktionalitet för CRUD finns
 
-Länk
-En liveversion av APIet finns tillgänglig på följande URL: https://testserver.test/courses
+Länk till webbsida
+https://studenter.miun.se/~mifr2204/writeable/azure_backend-mom2-sida/add.html
+
+länk till app
+https://backendm2.azurewebsites.net/
+
+länk till git webbtjänst
+https://github.com/mifr2204/backend-mom2-webbtj.git
+
+länk till git webbsida
+https://github.com/mifr2204/backend-mom2-sida.git
 
 Installation, databas
 Sqlite3 används som databas av APIet. Klona ner källkodsfilerna, kör kommandot: npm install 
